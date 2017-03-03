@@ -20,7 +20,7 @@ MySQLdb
 Put this file on the same folder of your project and then import it on your main file. <br>
 
 ```
-PSA: I called the class DB because I could be bothered inventing a good name ;3
+PSA: I called the class DB because I didn't want to inventing a good name ;3
 ```
 
 ## Running the tests

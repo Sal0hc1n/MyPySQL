@@ -11,13 +11,15 @@ This class could help you using python Server-side to connect it with MySQL.
 * [Python 2.7](https://www.python.org/download/releases/2.7/) - The language used
 * [MySQLdb](https://pypi.python.org/pypi/MySQL-python/1.2.5) - Python interface to MySQL
 
-### Usage
+### Installing
 
 Put this file on the same folder of your project and then import it on your main file. <br>
 
 ```
 PSA: I called the class DB because I didn't want to inventing a good name ;3
 ```
+### Usage
+coming soon...
 
 ## Running the tests
 
